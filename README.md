@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ifeoma 
-- 👀 I’m interested in UX design and Data Analytics 
+- 👀 I’m interested in UI/UX design and Data Analytics 
 - 🌱 I’m currently learning SQL and Tableau 
-- 💞️ I’m looking to collaborate on UX design projects. 
+- 💞️ I’m looking to collaborate on UI design projects. 
 - 📫 You can reach me on onyemachi.ifeoma@hotmail.co.uk
 
 <!---
